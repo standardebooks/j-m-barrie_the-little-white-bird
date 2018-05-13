@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Little White Bird, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Or, Adventures in Kensigton Gardens</dc:title>
-		<meta property="file-as" refines="#subtitle">Adventures in Kensington Gardens, Or</meta>
+		<meta property="file-as" refines="#subtitle">Or, Adventures in Kensington Gardens</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Little White Bird, or Adventures in Kensington Gardens</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Little White Bird</meta>
