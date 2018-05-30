@@ -48,9 +48,14 @@
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1376</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1376</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A series of adventures in London, including those of the narrator and a little boy named David, and Peter Pan in Kensington Gardens.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Little White Bird&lt;/i&gt; is generally devided into three sections: the first chronicles the narrator’s life in London, beginning from how he came to know a little boy named David (who joins him on his adventures), and describes other matters of his everyday life.&lt;/p&gt;
+			&lt;p&gt;The second section tells the story of how Peter Pan came to be a betwixt-and-between and his adventures in Kensington Gardens, including his interactions with the birds as well as the fairies hidden in the park.&lt;/p&gt;
+			&lt;p&gt;Finally, the third section of the book revisits London with the narrator and David from the beginning of the book. The two make brief visits to Kensington Gardens and a new adventure to Patagonia and their voyrage back to England.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Little White Bird&lt;/i&gt; is the first story to include the famous Peter Pan character, two years before &lt;i&gt;Peter Pan, or The Boy Who Wouldn’t Grow Up&lt;/i&gt;, the play that made the character famous. While &lt;i&gt;The Litte White Bird&lt;/i&gt; can be described as a prelude to the play, inconsistencies such as Peter Pan’s age make the two stories incompatible.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1376</dc:source>
