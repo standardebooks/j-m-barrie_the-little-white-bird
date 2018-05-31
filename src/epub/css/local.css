@@ -36,7 +36,7 @@ td{
 }
 
 .tombstone{
-	border: 1px solid #000;
+	border: 1px solid;
 	height: 90px;
 	text-align: center;
 	width: 90px;
