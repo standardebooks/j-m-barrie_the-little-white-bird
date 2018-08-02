@@ -21,10 +21,6 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 table{
 	margin: 1em auto;
 }
