@@ -21,19 +21,23 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
-table{
-	margin: 1em auto;
+#chapter-18 blockquote:last-of-type{
+	text-align: center;
+	display: table;
+	margin: auto;
 }
 
-td{
+#chapter-18 blockquote:last-of-type p{
+	display: table-cell;
 	padding-left: .5em;
 	padding-right: .5em;
+	text-indent: 0;
 	vertical-align: middle;
 }
 
-.tombstone{
+#chapter-18 blockquote:last-of-type p:first-child,
+#chapter-18 blockquote:last-of-type p:last-child{
 	border: 1px solid;
 	height: 5em;
-	text-align: center;
 	width: 5em;
 }
