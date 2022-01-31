@@ -17,9 +17,9 @@
 }
 
 #chapter-18 blockquote:last-of-type{
-	text-align: center;
 	display: table;
 	margin: auto;
+	text-align: center;
 }
 
 #chapter-18 blockquote:last-of-type p{
